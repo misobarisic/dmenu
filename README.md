@@ -1,24 +1,21 @@
-dmenu - dynamic menu
-====================
-dmenu is an efficient dynamic menu for X.
+<h1 align="center">Welcome to dmenu</h1>
+<p>
+  <a href="https://github.com/misobarisic/dmenu/blob/master/LICENSE" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg" />
+  </a>
+</p>
+
+## About
+This is my personal lightly patched build of [dmrnu](https://dmenu.suckless.org/).
+
+## Patches
+- fuzzymatch
+- lineheight
 
 
-Requirements
-------------
-In order to build dmenu you need the Xlib header files.
+## Author
 
+**Mišo Barišić**
 
-Installation
-------------
-Edit config.mk to match your local setup (dmenu is installed into
-the /usr/local namespace by default).
-
-Afterwards enter the following command to build and install dmenu
-(if necessary as root):
-
-    make clean install
-
-
-Running dmenu
--------------
-See the man page for details.
+* Website: https://www.misobarisic.com
+* GitHub: [@misobarisic](https://github.com/misobarisic)
