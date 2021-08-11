@@ -19,3 +19,4 @@ This is my personal lightly patched build of [dmrnu](https://dmenu.suckless.org/
 
 * Website: https://www.misobarisic.com
 * GitHub: [@misobarisic](https://github.com/misobarisic)
+* GitLab: [@misobarisic](https://gitlab.com/misobarisic)
