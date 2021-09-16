@@ -6,7 +6,7 @@
 </p>
 
 ## About
-This is my personal lightly patched build of [dmrnu](https://dmenu.suckless.org/).
+This is my personal lightly patched build of [dmenu](https://dmenu.suckless.org/).
 
 ## Patches
 - fuzzymatch
